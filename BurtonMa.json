@@ -142,5 +142,13 @@
             "answer": "Simply one of the best professors at York."
         },
         "externalUrl": "http://test.co/info/{{$guid}}"
+    },
+    {
+        "type": "faq",
+        "faq": {
+            "question": "Who is the best 2nd year eecs2030 prof?",
+            "answer": "For fall, your only option is Burton Ma if you are in engineering since his is section E. Burton is a very good prof for 2030, he normally teaches it every year and his teaching techniques are very good and its easy to focus in his class. You cant go wrong with him. I had Burton Ma last year for 2030, and he taught very well and explained topics in such a way that everyone understood, I think it will be worth while to switch to his section."
+        },
+        "externalUrl": "http://test.co/info/{{$guid}}"
     }
 ]

@@ -150,5 +150,13 @@
             "answer": "Great professor. Knows the subject very well. Not very approachable in person, but that can be ignored. Tests for this particular class were extremely easy. Attend every class if you are new to Comp. Science. If you are just coming back for a good grade like me, well you are at the right place."
         },
         "externalUrl": "http://test.co/info/{{$guid}}"
+    },
+    {
+        "type": "faq",
+        "faq": {
+            "question": "Does hamzeh roumani bell curve?",
+            "answer": "Took four courses with Roumani back in the day. Glad to see he's still teaching (hope he never retires LOL)\n\nRoumani's tests are tough but fair. I've chatted with him before about bell curveing and IIRC he doesn't do it because he never needed to.\n\nHe's still human though -- if you've built up a relationship with him over the semester (i.e. he knows your name, he knows you're not stupid, and he knows you're diligent), he might bump you up to the next half-grade.\n\nSo like if you get 74, he _might_ give you B+ instead of B if he knows you.\n\nUgh, brings me back memories of all those times I was 1% short and lots of other profs didn't round up >_<"
+        },
+        "externalUrl": "http://test.co/info/{{$guid}}"
     }
 ]

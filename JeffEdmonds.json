@@ -150,5 +150,13 @@
             "answer": "I did not know that when I stepped into Jeff's class for the first time, that my life was about to be changed forever. His beautiful long hair keeps you energized, but his soft soothing voice is what keeps you coming back to class. He explains everything in great detail and will go over it until you understand it. Jeff is truly an inspiration."
         },
         "externalUrl": "http://test.co/info/{{$guid}}"
+    },
+    {
+        "type": "faq",
+        "faq": {
+            "question": "Need advice regarding profs of eecs 2001, 2011, 2021,2030 and 2031",
+            "answer": "2031 doesnt need 2030 as a prerequisite anymore. Unsure of any of the profs for it.\n\n2001 with my boy Datta or my other boy Jeff (FAIRY GODMOTHER).\n\n2030 with Jackie, it will be tough but youll come out of it a much better programmer (did 3311 with him). With Jackie you must go to, and listen to, every lecture. Thats the most important thing for succeeding with him.\n\nAvoid Andy if youre worried about your GPA, he is good, but tests you relatively harder than other profs. Not sure about other profs for 2011, I took it with Elder and it was hard, but finished well.\n\nEdit: Also my boy Datta and my boy Jeff and my boy Jackie have pretty good ratings (Jackies was a perfect 5 last I checked)."
+        },
+        "externalUrl": "http://test.co/info/{{$guid}}"
     }
 ]

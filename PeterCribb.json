@@ -142,5 +142,13 @@
             "answer": "He's a good prof but lacks charisma.  Im quite energetic around the noon time, even on two coffees I cant stay awake listening to his voice. Other than that....Comprehensive at best."
         },
         "externalUrl": "http://test.co/info/{{$guid}}"
+    },
+    {
+        "type": "faq",
+        "faq": {
+            "question": "eecs3000 with peter cribb",
+            "answer": "On one hand, he seems acutely aware of the value of the class and what students think of it. On the other hand, he seems intent on punishing students for it. While he doesn't give a shit if you attend his lectures, he basically makes guest lectures mandatory(part of your grade is connected to it) despite the material from those lectures not being relevant to any other evaluated criteria.\n\nThe essays aren't really essays but an exercise in how to answer ambiguous, poorly worded questions based on a rubric in as few words as possible, don't get hung up on the question itself, just follow the rubric. He also expects you to cite your sources for many of those with credible sources, typically from peer reviewed journals and conferences. In general, the papers are a serious pain in the ass and don't expect to do well unless you actually exert effort or are a really good writer.\n\nIn terms of writing ability, the bar is actually set low for grading. Historically, I've been a B student in essay writing classes but I got 100% on 4 of the 7 essays I submitted while the other 3 were a 57, 87 and 69 (mostly just the TA not liking some of my answer or me missing a point cause of word restrictions). I read a few of my friends papers who did poorly (after the fact) and their papers rushed, poorly edited with little regard for rules of writing. The ones that did good to well either put in the effort or were smart enough to get away with it."
+        },
+        "externalUrl": "http://test.co/info/{{$guid}}"
     }
 ]
