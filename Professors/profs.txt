@@ -1,0 +1,569 @@
+[
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Will I enjoy taking Hamzeh Roumani's class for EECS1022 and what kind of prof are they? Is Hamzeh Roumani giving good grades for EECS1022? Should I attend EECS1022 lectures with Hamzeh Roumani? Should I take the EECS1022 with Hamzeh Roumani to understand the topics and material? Will I need to study a lot for EECS1022 with Hamzeh Roumani? ",
+      "answer": "Great prof! Answers questions in class well whenever we don't understand anything. I like he also talks about how the topics taught will relate to us in the corporate world. He is good at making examples for us to have deeper understanding. Although his tests are very technical, study hard and you'll be fine."
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Is Hamzeh Roumani a nice professor for EECS2021? How is Hamzeh Roumani's grading if I want to get a high grade in EECS2021? Are his test very tricky and can I expect fair labs? Is attending EECS2021 lecture from Hamzeh Roumani worth it to pass the class? Should I take the EECS2021 with Hamzeh Roumani to understand the topics and material? ",
+      "answer": "He teaches really well. His lectures are amazing and very inspirational. His lab tests are fair but in theory test he will try his level best to fail you. Most of the questions has nothing to do with the topics he covered in the lecture. DO NOT take class with him unless you're really genius or you will fail or barely pass."
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Is Hamzeh Roumani a nice professor for EECS1022? Should I take Hamzeh Roumani's EECS1022 class if I care about my grades and GPA? Should I attend EECS1022 lectures with Hamzeh Roumani? Does Hamzeh Roumani explain EECS1022 well? ",
+      "answer": "I haven't talked to him personally but he seems like a nice person. His classes and labs are fun. He teaches the topics clearly and it is possible to understand most of them just by going over what he posts online. His second lab test was nothing like the first one and he gave barely enough time."
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Will I enjoy taking Hamzeh Roumani's class for EECS2021 and what kind of prof are they? How is Hamzeh Roumani's grading if I want to get a high grade in EECS2021? Are his test very tricky and can I expect fair labs? Does Hamzeh Roumani explain EECS2021 well? ",
+      "answer": "He is a really great Prof. (or say the best prof at york) if you want to learn and have a deep understanding of this course. Each lab is 4% in which there is programming test of 40 min usually the questions are kind of interesting and it's very easy to screw up your grades. Mips is the part where you can accumulate all your grades as Verilog is the"
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Is Hamzeh Roumani a nice professor for EECS1022? Is Hamzeh Roumani giving good grades for EECS1022? Should I attend EECS1022 lectures with Hamzeh Roumani? ",
+      "answer": "He's the best prof I've had so far at York. If you can, get him! I felt sick a couple of times and he had no issue with moving my test to another day. Best lecturer so far and very motivational. He is very easy to talk to and he genuinely cares about students."
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Is Hamzeh Roumani a nice professor for EECS1022? ",
+      "answer": "He is tough but clear, very knowledge, work hard & definitely will succeed very helpful and tough, best prof for computer science at york so far."
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Will I enjoy taking Hamzeh Roumani's class for CSE4413 and what kind of prof are they? Should I attend CSE4413 lectures with Hamzeh Roumani? Does Hamzeh Roumani explain CSE4413 well? Is Hamzeh Roumani giving good grades for CSE4413? ",
+      "answer": "Good teacher.  He's strict, but his reasoning is sound.  Your performance in his class reflects how prepared you currently are for the workforce.   i.e you can have a great GPA, but if you've only do the required labs, you'll probably get a D.  Spend some time exploring the topic in depth (on your own) if you want to get any better than that."
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Is Hamzeh Roumani a nice professor for EECS4413? ",
+      "answer": "Best professor, smart, clear, always listens then talks"
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Is Hamzeh Roumani a nice professor for EECS1020? Is Hamzeh Roumani giving good grades for EECS1020? Should I attend EECS1020 lectures with Hamzeh Roumani? ",
+      "answer": "Amazing lectures. One of the best at york. Tough Grader. Should work hard and that helps a lot outside."
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Will I enjoy taking Hamzeh Roumani's class for EECS1022 and what kind of prof are they? Should I take Hamzeh Roumani's EECS1022 class if I care about my grades and GPA? Is attending EECS1022 lecture from Hamzeh Roumani worth it to pass the class? ",
+      "answer": "Professor Roumani is a great prof. He  tries to keep his students engaged and does a good job of explaining the material. The course itself is new so it was a bit disjointed between the lectures and labs which probably made the in class tests harder than they needed to be. The lab component made up for it by being really easy."
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Is Hamzeh Roumani giving good grades for EECS1020? ",
+      "answer": "Tests are not hard if u understand the subject. Can use google and other material during the tests. Inspirational."
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Is Hamzeh Roumani giving good grades for CSE2021? Is attending CSE2021 lecture from Hamzeh Roumani worth it to pass the class? Does Hamzeh Roumani explain CSE2021 well? ",
+      "answer": "I skipped most CS courses because the profs usually simply regurgitate what you can read in a textbook. Roumani  was  one of the only profs who used the class for interaction and put some effort into teaching topics in an interesting and concise manner. You probably could pass without coming to class, but it was still definitely worth coming to."
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Will I enjoy taking Hamzeh Roumani's class for EECS1020 and what kind of prof are they? ",
+      "answer": "Best professor I have ever had. He is  concise, will give great examples and offers interesting tidbits to keep you interested in the course and program. He effectively communicates with his students and understands how to convey to knowledge (wisdom) to them. He will provide thought provoking examples and will clearly explain the process behind it"
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Is Hamzeh Roumani a nice professor for EECS1020? ",
+      "answer": "He is THE BEST. Would love to take courses taught by him as many as possible!"
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Should I attend CSE1020 lectures with Hamzeh Roumani? Is Hamzeh Roumani giving good grades for CSE1020? ",
+      "answer": "The rating for this teacher makes it look like that \"the real students\", the ones who actually had classes with him, have no voice!! REAL students clearly talk about the  unsatisfaction with class, book lab and on. I would never ever take a class with him. A weak Java course named \"computer science\". Never again!"
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Will I enjoy taking Hamzeh Roumani's class for CSE1020 and what kind of prof are they? Should I take Hamzeh Roumani's CSE1020 class if I care about my grades and GPA? Should I attend CSE1020 lectures with Hamzeh Roumani? ",
+      "answer": "Great professor. Knows the subject very well. Not very approachable in person, but that can be ignored. Tests for this particular class were extremely easy. Attend every class if you are new to Comp. Science. If you are just coming back for a good grade like me, well you are at the right place."
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Is Jeff Edmonds a nice professor for EECS3101? Does Jeff Edmonds explain EECS3101 well? ",
+      "answer": "Jeff is the best professor I've had so far at York. But I wish he discussed the topics using more general terms than his own e.g. fairy god mother, little birds etc."
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Should I take Jeff Edmonds's EECS3101 class if I care about my grades and GPA? Should I attend EECS3101 lectures with Jeff Edmonds? ",
+      "answer": "Jeff's a really interesting guy with a unique style. You might find some of his ideas hard to map (fairy god mothers aren't usually an interview answer) but the steps work everywhere. Always the steps. He can get hard to follow but he tries, and he records lectures. Participation grades are weird, final is a killer (seriously), tests are fair."
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Is Jeff Edmonds a nice professor for EECS3101? ",
+      "answer": "Jeff is one the best Professor at York."
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Is Jeff Edmonds a nice professor for CSE2001? Should I take Jeff Edmonds's CSE2001 class if I care about my grades and GPA? Does Jeff Edmonds explain CSE2001 well? ",
+      "answer": "Great Proff! He cares about the students, will always answer questions. He has his own way of explaining concepts which you have to understand. Doesn't regrade for tests and if he does he will regrade your whole test and may lower the grade. For the tests make sure he shows you step by step how to answer the questions (ie reductions and proofs)."
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Is Jeff Edmonds giving good grades for EECS3101? Is attending EECS3101 lecture from Jeff Edmonds worth it to pass the class? Does Jeff Edmonds explain EECS3101 well? ",
+      "answer": "Follow his methodology and you should do ok. Read his lecture notes and listen to him when he does his examples in class. Ask him questions. Hes a pretty funny guy. Also go to his tutorials! He does all his examples in them and goes over them so many times. His style is unusual but just put in some work and you will pass!"
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Should I attend EECS2001 lectures with Jeff Edmonds? Does Jeff Edmonds explain EECS2001 well? ",
+      "answer": "Cares about his students and WANTS them to succeed and understand. Incredibly patient and casual. Fun classes. His slides are comprehensive so they can be a bit overwhelming. Don't hesitate to ask questions thoughhe's willing to help."
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Does Jeff Edmonds explain EECS3101 well? ",
+      "answer": "You have to know his learning methods you can't use the methods use from Google otherwise you will get the question wrong and it's hard to apply his steps for interview questions"
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Should I attend EECS3101 lectures with Jeff Edmonds? ",
+      "answer": "Jeff teaches material in an abstract way such that you can apply these concepts to more general problems. You will first (and may continue to) find the way he lectures confusing but eventually (hopefully) you will find yourself understanding the material once understanding his teaching style."
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Is Jeff Edmonds giving good grades for CSE2001? Should I attend CSE2001 lectures with Jeff Edmonds? Does Jeff Edmonds explain CSE2001 well? ",
+      "answer": "Firstly, 2001 is a hard course. It's 100% theoretical and abstract. Just remember that when you take the course. Now, when you have course material that's super hard, it helps to have a professor who teaches well. Jeff is super patient, answers literally 2 dozen questions every class, and wants everyone to pass. He makes the course bearable."
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Is Jeff Edmonds a nice professor for EECS2001? ",
+      "answer": "THE BEST PROF AT YORK, HANDS DOWN!!!!"
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Will I enjoy taking Jeff Edmonds's class for EECS2001 and what kind of prof are they? Is Jeff Edmonds giving good grades for EECS2001? ",
+      "answer": "Jeff is an amazing teacher who really cares about the students and even asks specifically if you understand the concept and want everyone to pass the course or get a good mark. He is the as best as they come."
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Should I attend EECS2001 lectures with Jeff Edmonds? ",
+      "answer": "Well thought out lectures, amazing and extremely simple explanations and tricky exam."
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Is Burton Ma a nice professor for EECS2030? ",
+      "answer": "The best"
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Is Burton Ma giving good grades for EECS1011? ",
+      "answer": "The professor who actually kept me going during the term. Amazing professor who actually cares about giving proper feedback. If you face any problem during the lab, he gives hints which help you to figure out the problem and learn at the same time."
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Is Burton Ma a nice professor for EECS2030? Is Burton Ma giving good grades for EECS2030? Should I attend EECS2030 lectures with Burton Ma? ",
+      "answer": "His slides and lectures are very clear to understand. His tests are very fair too. Best prof for this course hands down."
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Will I enjoy taking Burton Ma's class for EECS2030 and what kind of prof are they? ",
+      "answer": "Burton Ma is a great prof. Slides are very clear, iClickers are engaging and he's very approachable. Plus, he's a brilliant professor and a good teacher."
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Will I enjoy taking Burton Ma's class for EECS2030 and what kind of prof are they? Should I attend EECS2030 lectures with Burton Ma? ",
+      "answer": "I think Professor Burton Ma is an amazing professor and he has taught me a great deal about the fundamentals programming. He has helped build a very strong foundation for programming for me and his lectures were very informative. He is very caring and gives good feedback."
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Will I enjoy taking Burton Ma's class for EECS2030 and what kind of prof are they? Should I take Burton Ma's EECS2030 class if I care about my grades and GPA? Does Burton Ma explain EECS2030 well? Will I need to study a lot for EECS2030 with Burton Ma? ",
+      "answer": "Seems like he put in minimal effort making tests and labs. For every test he emailed topics to study/format like 8 hours before the test. Doesn't respond to emails and wrote exam with only half of the work we did marked. The tests are fair though. Compared to other profs i've had, he is not the worst but also not the best. Overall decent"
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Will I enjoy taking Burton Ma's class for EECS1030 and what kind of prof are they? Should I attend EECS1030 lectures with Burton Ma? Is Burton Ma giving good grades for EECS1030? ",
+      "answer": "One of the best professors for Java Programming at Lassonde. Covers practical aspects really well in class on which the labs are based so if you regularly attend classes, you'll do great. Easily available and very helpful if you stuck on labs. Final written portion is based off the theoretical content from his slides."
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Is Burton Ma a nice professor for EECS2030? Should I take Burton Ma's EECS2030 class if I care about my grades and GPA? Is attending EECS2030 lecture from Burton Ma worth it to pass the class? Does Burton Ma explain EECS2030 well? ",
+      "answer": "Slides and explanations are great, and he's happy to answer questions during lecture until things are understood. His tests and labs are not easy, but fair enough that we are challenged and learn. He's also a very down to earth and funny person. Really wish I had more time so I could listen and learn from his class."
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Is Burton Ma a nice professor for EECS2030? ",
+      "answer": "Burton Ma is the best programming professor I've ever had. Unlike other EECS professors at york Burton Ma wont rush to finish his conversation with you and will actually take some time to help you. Perhaps the rest of the EECS department can learn something from him."
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Should I take Burton Ma's EECS2030 class if I care about my grades and GPA? Should I attend EECS2030 lectures with Burton Ma? Will I need to study a lot for EECS2030 with Burton Ma? ",
+      "answer": "One of the few profs at York that actually know what they're talking about. Lectures are somewhat dry and feel rushed. Assignments were mostly only marked by the end of the course, but tests comprise most of the grade and there is plenty of review material."
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Is Burton Ma a nice professor for LEEECS1011? ",
+      "answer": "Prof. Ma was a good professor for my first year at York. Unfortunately, I am terrible with computers but he was definitely helpful and considerate for the students. He is there if you need help and clarification."
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Should I attend 1011 lectures with Burton Ma? ",
+      "answer": "i absolutelyyyyyyyyyy recomend you take your eecs classes with him."
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Is Burton Ma the best professor I can take for EECS1011 or is there someone better and what are most people's opinions about their class? Is attending EECS1011 lecture from Burton Ma worth it to pass the class? ",
+      "answer": "He is the best professor for ANY course literally. His teaching skills are excellent and he really wants his students to do good. His lectures are awesome. Such a nice professor and really helpful. Would take all my EECS classes with him!"
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Is Burton Ma a nice professor for CSE1030? Should I take Burton Ma's CSE1030 class if I care about my grades and GPA? ",
+      "answer": "Good Professor. Explains really well. Is ready help you anytime, he also attends all the labs. So, you can ask for help even in the labs. Tests are a bit challenging, but if you know the concepts, you should be fine."
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Is Burton Ma a nice professor for CSE1030? ",
+      "answer": "The best prof at cse! helps you out whenever you go to his office. just practice as much as you can and youll be fine."
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Is Burton Ma a nice professor for CSE1030? ",
+      "answer": "He is great."
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Should I attend CSE1030 lectures with Burton Ma? ",
+      "answer": "Burton is one of the better crowd of profs at York. I was screwed over by Lassonde faculty, and fell extremely behind in this course. Approachable, relaxed, always willing to help in any way. Offered extra resources to bring me up to par. Unfortunately I'm repeating the class, like many. Hoping to take it with Burton again."
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Is Burton Ma a nice professor for CSE1030? ",
+      "answer": "Simply one of the best professors at York."
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Who is the best 2nd year eecs2030 prof?",
+      "answer": "For fall, your only option is Burton Ma if you are in engineering since his is section E. Burton is a very good prof for 2030, he normally teaches it every year and his teaching techniques are very good and its easy to focus in his class. You cant go wrong with him. I had Burton Ma last year for 2030, and he taught very well and explained topics in such a way that everyone understood, I think it will be worth while to switch to his section."
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Should I attend EECS3000 lectures with Peter Cribb? ",
+      "answer": "Essays are hard. Lectures are skeleton-like and expect too much participation from students. Lecture slides are useless. Massive curving though."
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Should I attend EECS3000 lectures with Peter Cribb? ",
+      "answer": "Useless course and boring prof. you will sleep in his class. His marking are crazy if you get a C+ on an essay marked by him it means its an A+ essay. final exam is hard."
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Is Peter Cribb a nice professor for EECS3000? Is Peter Cribb giving good grades for EECS3000? ",
+      "answer": "He's generally a pretty nice guy, but the way he grades students for their contributions to the course makes it feel like he's just trying to kill their motivation to actually complete it. By the way, I hope you're mentally prepared to write essays on some of the mundane stuff imaginable. Definitely wouldn't take a course with him again."
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Is Peter Cribb a nice professor for EECS3000? Is attending EECS3000 lecture from Peter Cribb worth it to pass the class? Does Peter Cribb explain EECS3000 well? ",
+      "answer": "His marking is insane. Don't expect higher than a C on an essay (class average on the 1st essay was around a 50/100). Lectures are boring. Lots of reading, and quiz questions are based on very specific information from the readings. Multiple essays, with a combined total of around 4500 words. Nice guy though."
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Should I attend CS3000 lectures with Peter Cribb? Does Peter Cribb explain CS3000 well? ",
+      "answer": "more than half of the class dropped this class,the only students who stayed are because they have no choice, he teaches this course every year,he doesn't know how to teach, doesn't know the topics very well no wonder coz he did his bachelors and phd in chemistry, he's not qualified to teach a computer science course,Extremely discouraging in class"
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Is Peter Cribb a nice professor for COS101? Should I attend COS101 lectures with Peter Cribb? ",
+      "answer": "Possibly the worst prof York can have. And that's saying something. Lacks empathy. Does not care about students. Unreasonable. Stay clear of his classes."
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Is Peter Cribb a nice professor for CSE3000? Is Peter Cribb giving good grades for CSE3000? ",
+      "answer": "This guy is awesome, the course is awesome. He doesnt care how good or bad you did in course, all grades are given randomly.."
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Will I enjoy taking Peter Cribb's class for CSE3000 and what kind of prof are they? Should I attend CSE3000 lectures with Peter Cribb? ",
+      "answer": "Speakers are great, don't miss them, but lectures can be boring at times. Essays are marked overly hard, but is balanced out with an easy exam. He's a super nice guy in person, go talk to him during office hours. He cares about students."
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Is Peter Cribb giving good grades for CSE3000? Does Peter Cribb explain CSE3000 well? Will I need to study a lot for CSE3000 with Peter Cribb? ",
+      "answer": "Some topics are engaging, but the professor is boring. Assignment grades are subjective to him."
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Should I attend CSEA lectures with Peter Cribb? Will I need to study a lot for CSEA with Peter Cribb? ",
+      "answer": "There is a tendency for the class to be really boring, but course research and assignments are really helpful and interesting."
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Should I take Peter Cribb's CSE3000 class if I care about my grades and GPA? Is attending CSE3000 lecture from Peter Cribb worth it to pass the class? ",
+      "answer": "Excellent course and professor. He engages the students. Class participation is required. Most lectures are mandatory (grades for attendance). Utilize the Bethune Writing Labs when writing the essays required for this course in order to obtain the maximum mark. Lots of reading. About 3000 words total in essay writings."
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Will I need to study a lot for CSE3000 with Peter Cribb? ",
+      "answer": "Excellent Prof. He knows most students by their name. He cares a lot about students. At least for CSE 3000, you can visit him before the due of an essay/assignment and he gives you feedback on it. His marking is strict, and he made the final very hard. I have no complains."
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Should I attend CSE3 lectures with Peter Cribb? ",
+      "answer": "His lectures are not bad, but his marking is ridiculously insane. If you want anything above B, avoid him. If you are willing to live with C or below, then take him and enjoy his lectures."
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Is Peter Cribb a nice professor for CSE1530? Is Peter Cribb giving good grades for CSE1530? Should I attend CSE1530 lectures with Peter Cribb? ",
+      "answer": "I do not understand the bad comments about this professor. If you go to his lectures the tests and exams are not hard at all! He is EXTREMELY helpful in his office hours.This is my first year taking computer course and I have learned so much from his lectures! He's the BEST!"
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Is Peter Cribb a nice professor for CSE1530? Should I attend CSE1530 lectures with Peter Cribb? Does Peter Cribb explain CSE1530 well? ",
+      "answer": "WORST PROF EVER! Please don't take any course with him if you have a choice......i came out of this course knowing less about programming than I did going in.......his exams are hard and he has a habit of asking questions in the exams on things on which he has hardly spent any time on either in the class or in the manual......everyone in class hate"
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Is attending CSE1530 lecture from Peter Cribb worth it to pass the class? ",
+      "answer": "This professor is very understanding and will try to make you understand no matter what! He'll give you examples as much as you want. Go to his office hours! Attend his lectures and LISTEN!practice to do well. That's what he said in the first day of class. Practice makes perfect."
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Should I attend CSE1530 lectures with Peter Cribb? Does Peter Cribb explain CSE1530 well? ",
+      "answer": "A very helpful prof...office hours are useful to clear out the doubts...very approachable and clear lectures. Doesnt rush! Got a lot of patience to answer questions and teach..."
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Will I enjoy taking Peter Cribb's class for COSC1530 and what kind of prof are they? ",
+      "answer": "He's a good prof but lacks charisma.  Im quite energetic around the noon time, even on two coffees I cant stay awake listening to his voice. Other than that....Comprehensive at best."
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Is attending EECS1028 lecture from Suprakash Datta worth it to pass the class? Does Suprakash Datta explain EECS1028 well? ",
+      "answer": "Prof Datta is Overall a solid guy. The class is tough, but if you attend most of his lectures and keep up in the textbook there's no question you wont do well in the class. Only Reason hes not 5/5 is because he never ever ever returns anything on time. Expect to have everything back a month after you write it LOL. But yea solid prof ."
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Will I enjoy taking Suprakash Datta's class for EECS3214 and what kind of prof are they? Should I attend EECS3214 lectures with Suprakash Datta? Does Suprakash Datta explain EECS3214 well? How much time is spent studying for assignments and homework for EECS3214 with Suprakash Datta? ",
+      "answer": "Great Professor who genuinely cares about the students and the program. Lectures are informative and follows the slides and book closely. You MUST study from the book and not (primarily) the slides. Questions are open ended (This is a good thing; too much detail for brute memorization) and assignments are fair."
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Does Suprakash Datta explain EECS3214 well? Will I need to study a lot for EECS3214 with Suprakash Datta? ",
+      "answer": "his exam questions are far too ambiguous and open. Instead of putting questions from important parts of chapter, his questions are unknown as something too specific as a diagram or summary of entire section in a question and with so long powerpoint videos!!!! for the first time i am looking at such dense notes so it confuses as how deep to study ."
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Should I take Suprakash Datta's EECS3214 class if I care about my grades and GPA? Is attending EECS3214 lecture from Suprakash Datta worth it to pass the class? Will I need to study a lot for EECS3214 with Suprakash Datta? ",
+      "answer": "Prof doesn't provide feedback and takes forever to give grades back. His tests are so open ended. I thought his lectures were so boring, hes so monotone. His assignments weren't too hard. Try to listen to him in class even though you might be fighting the need to drift off into a deep sleep."
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Should I attend EECS3214 lectures with Suprakash Datta? Does Suprakash Datta explain EECS3214 well? Will I need to study a lot for EECS3214 with Suprakash Datta? ",
+      "answer": "Very fair prof. Love his midterm and exam. A lot of questions have multiple solutions. If you can give something creative within the theory discussed in class you usually get full marks. Doesn't make you memorize anything, just wants to see you understand what's going on. Assignments are easy. Guaranteed credit with an honest effort."
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Is Suprakash Datta a nice professor for EECS2011? Is Suprakash Datta giving good grades for EECS2011? Is attending EECS2011 lecture from Suprakash Datta worth it to pass the class? Will I need to study a lot for EECS2011 with Suprakash Datta? ",
+      "answer": "Lectures were pretty good. Lecture slides could've been better, but if you read the slides from other sections/years along with his, you could skip using the textbook. Assignments/tests/exam were common with James Elder's section and were fair and gave plenty of bonuses."
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Is Suprakash Datta a nice professor for EECS2011? Is Suprakash Datta giving good grades for EECS2011? Should I attend EECS2011 lectures with Suprakash Datta? Will I need to study a lot for EECS2011 with Suprakash Datta? ",
+      "answer": "Great Prof, I really enjoyed the lectures even tho they were 3 hours long, 2011 is notoriously the hardest course in 2nd year cs but with datta I was able to understand the concepts clearly, and his test was reasonable too, assignments were challenging but useful also(we got 3 bonus marks) and exam was really easy as long as you knew your stuff."
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Is Suprakash Datta a nice professor for EECS3101? ",
+      "answer": "I've taken EECS 3101 and Math 1019 with him and he is by far the most caring and approachable prof at York. He doesn't want people to fail his course he wants you to learn and will spend hours much past what any other prof will put in to make sure you succeed. Plus if you actually talk to him he has good stories/life advice."
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Is Suprakash Datta a nice professor for EECS1028? Is Suprakash Datta giving good grades for EECS1028? ",
+      "answer": "Great Teacher. Hard course. May seem easy but test is very hard/ logical"
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Is Suprakash Datta a nice professor for EECS3214? Does Suprakash Datta explain EECS3214 well? ",
+      "answer": "His questions in exams are open ended. so if you know your material well enough then there is no need to panic. he is a  nice prof and know his stuff very well"
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Will I need to study a lot for EECS1028 with Suprakash Datta? ",
+      "answer": "Course is fked up, proff is aiii. Study hard kiddos."
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Is Suprakash Datta giving good grades for EECS3214? Does Suprakash Datta explain EECS3214 well? ",
+      "answer": "Awful prof. His questions on tests are very ambiguous and open ended."
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Is Suprakash Datta a nice professor for EECS1028? Is Suprakash Datta giving good grades for EECS1028? Should I attend EECS1028 lectures with Suprakash Datta? Will I need to study a lot for EECS1028 with Suprakash Datta? ",
+      "answer": "Professor Datta is by far one of the best professors I have ever had. I had him for discrete math, which is why the difficulty level was so high. However, he takes time out of his schedule to organize study sessions before tests and he genuinely cares about his students. His lectures are extremely informative and he explains concepts very clearly."
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Is Suprakash Datta a nice professor for EECS3214? Should I attend EECS3214 lectures with Suprakash Datta? Will I need to study a lot for EECS3214 with Suprakash Datta? ",
+      "answer": "Great prof, approachable, willing to help. In return, unforgiving w marking. Slides are from the publisher, so take this as a clue to READ THE BOOK. Assignments are fun and actually practicaluseful but difficult. Except for brief overview, coding for assignments not taught in class. U must be comfortable w coding for assignments. If not, YOUTUBE."
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Is Suprakash Datta giving good grades for EECS1028? Should I attend EECS1028 lectures with Suprakash Datta? Does Suprakash Datta explain EECS1028 well? ",
+      "answer": "His tests are hard as hell and he almost never uses any questions from the book, so you really need to understand the material if you wanna do well. He's still a really cool guy and will go the distance to make you understand the material. Also, don't_skip_any_of_the_tutorials. Most of the exercises he covers in tutorials show up on tests."
+    }
+  },
+  {
+    "type": "faq",
+    "faq": {
+      "question": "Is Suprakash Datta a nice professor for EECS1019? Is Suprakash Datta giving good grades for EECS1019? ",
+      "answer": "He will go above and beyond for students who asks for help. if you are looking for good grade you MUST go to his tutorials. amazing professor highly recommended."
+    }
+  }
+]
