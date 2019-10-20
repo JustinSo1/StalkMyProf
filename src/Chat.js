@@ -3,8 +3,9 @@ import React from "react";
 class Chat extends React.Component {
   constructor(props) {
     super(props);
-    this.state = { isDisabled: false };
+    this.state = { isDisabled: false, answer: null };
     this.handleSubmit = this.handleSubmit.bind(this);
+    this.displayMessage = this.displayMessage.bind(this);
   }
 
   async handleSubmit(e) {
@@ -14,8 +15,7 @@ class Chat extends React.Component {
     if (!isDisabled) {
       const data = new FormData(e.target);
       const query = data.get("query");
-      const answer = await this.getRequest(query);
-      console.log(await answer);
+      await this.getRequest(query);
     }
   }
 
@@ -52,26 +52,52 @@ class Chat extends React.Component {
 
     request(options, function(error, response, body) {
       if (error) console.log(error);
-      return body.results[0].faq.answer;
+      this.setState({ answer: body.results[0].faq.answer });
+      this.displayMessage();
     });
   }
+
+  displayMessage() {}
+
   render() {
-    return (
-      <div className="container-chat">
-        <div className="container-inner-chat">
-          <form onSubmit={this.handleSubmit}>
-            <div className="ui huge icon input">
-              <input
-                name="query"
-                type="text"
-                placeholder="Ask about a prof ..."
-              />
-              <i className="search icon"></i>
-            </div>
-          </form>
+    const { answer } = this.state;
+    let res;
+    if (answer === null) {
+      res = (
+        <div className="container-chat">
+          <div className="container-inner-chat">
+            <form onSubmit={this.handleSubmit}>
+              <div className="ui huge icon input">
+                <input
+                  name="query"
+                  type="text"
+                  placeholder="Ask about a prof ..."
+                />
+                <i className="search icon"></i>
+              </div>
+            </form>
+          </div>
         </div>
-      </div>
-    );
+      );
+    } else {
+      res = (
+        <div className="container-chat">
+          <div className="container-inner-chat">
+            <form onSubmit={this.handleSubmit}>
+              <div className="ui huge icon input">
+                <input
+                  name="query"
+                  type="text"
+                  placeholder="Ask about a prof ..."
+                />
+                <i className="search icon"></i>
+              </div>
+            </form>
+          </div>
+        </div>
+      );
+    }
+    return res;
   }
 }
 
