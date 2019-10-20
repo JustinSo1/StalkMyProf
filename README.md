@@ -1,4 +1,21 @@
+# StalkMyProf - Jean, Justin, and Maria
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Problem
+Students struggle with finding the professor that is the right fit for them because websites don’t give them the option to do deep searches.
+
+## Our Solution
+We created a web app that allows users to explore different professors through a search engine with data web scraped from RMP and Reddit.
+
+## How is it Unique?
+We have more information about professors without searching multiple sources and users can upvote/downvote if information is relevant to their question resulting in more helpful information.
+
+## Future Considerations
+- More data from different universities, professors, and sources
+- Python script to dynamically  send updated information to Postman and to combine the results from all the sources
+- Categories for users to get random generated questions from 
+
 
 ## Available Scripts
 
@@ -60,7 +77,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/ma
 This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
 
 ### Deployment
-
 This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
 
 ### `npm run build` fails to minify
