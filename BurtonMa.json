@@ -1,0 +1,146 @@
+[
+    {
+        "type": "faq",
+        "faq": {
+            "question": "Is Burton Ma a nice professor for EECS2030? ",
+            "answer": "The best"
+        },
+        "externalUrl": "http://test.co/info/{{$guid}}"
+    },
+    {
+        "type": "faq",
+        "faq": {
+            "question": "Is Burton Ma giving good grades for EECS1011? ",
+            "answer": "The professor who actually kept me going during the term. Amazing professor who actually cares about giving proper feedback. If you face any problem during the lab, he gives hints which help you to figure out the problem and learn at the same time."
+        },
+        "externalUrl": "http://test.co/info/{{$guid}}"
+    },
+    {
+        "type": "faq",
+        "faq": {
+            "question": "Is Burton Ma a nice professor for EECS2030? Is Burton Ma giving good grades for EECS2030? Should I attend EECS2030 lectures with Burton Ma? ",
+            "answer": "His slides and lectures are very clear to understand. His tests are very fair too. Best prof for this course hands down."
+        },
+        "externalUrl": "http://test.co/info/{{$guid}}"
+    },
+    {
+        "type": "faq",
+        "faq": {
+            "question": "Will I enjoy taking Burton Ma's class for EECS2030 and what kind of prof are they? ",
+            "answer": "Burton Ma is a great prof. Slides are very clear, iClickers are engaging and he's very approachable. Plus, he's a brilliant professor and a good teacher."
+        },
+        "externalUrl": "http://test.co/info/{{$guid}}"
+    },
+    {
+        "type": "faq",
+        "faq": {
+            "question": "Will I enjoy taking Burton Ma's class for EECS2030 and what kind of prof are they? Should I attend EECS2030 lectures with Burton Ma? ",
+            "answer": "I think Professor Burton Ma is an amazing professor and he has taught me a great deal about the fundamentals programming. He has helped build a very strong foundation for programming for me and his lectures were very informative. He is very caring and gives good feedback."
+        },
+        "externalUrl": "http://test.co/info/{{$guid}}"
+    },
+    {
+        "type": "faq",
+        "faq": {
+            "question": "Will I enjoy taking Burton Ma's class for EECS2030 and what kind of prof are they? Should I take Burton Ma's EECS2030 class if I care about my grades and GPA? Does Burton Ma explain EECS2030 well? Will I need to study a lot for EECS2030 with Burton Ma? ",
+            "answer": "Seems like he put in minimal effort making tests and labs. For every test he emailed topics to study/format like 8 hours before the test. Doesn't respond to emails and wrote exam with only half of the work we did marked. The tests are fair though. Compared to other profs i've had, he is not the worst but also not the best. Overall decent"
+        },
+        "externalUrl": "http://test.co/info/{{$guid}}"
+    },
+    {
+        "type": "faq",
+        "faq": {
+            "question": "Will I enjoy taking Burton Ma's class for EECS1030 and what kind of prof are they? Should I attend EECS1030 lectures with Burton Ma? Is Burton Ma giving good grades for EECS1030? ",
+            "answer": "One of the best professors for Java Programming at Lassonde. Covers practical aspects really well in class on which the labs are based so if you regularly attend classes, you'll do great. Easily available and very helpful if you stuck on labs. Final written portion is based off the theoretical content from his slides."
+        },
+        "externalUrl": "http://test.co/info/{{$guid}}"
+    },
+    {
+        "type": "faq",
+        "faq": {
+            "question": "Is Burton Ma a nice professor for EECS2030? Should I take Burton Ma's EECS2030 class if I care about my grades and GPA? Is attending EECS2030 lecture from Burton Ma worth it to pass the class? Does Burton Ma explain EECS2030 well? ",
+            "answer": "Slides and explanations are great, and he's happy to answer questions during lecture until things are understood. His tests and labs are not easy, but fair enough that we are challenged and learn. He's also a very down to earth and funny person. Really wish I had more time so I could listen and learn from his class."
+        },
+        "externalUrl": "http://test.co/info/{{$guid}}"
+    },
+    {
+        "type": "faq",
+        "faq": {
+            "question": "Is Burton Ma a nice professor for EECS2030? ",
+            "answer": "Burton Ma is the best programming professor I've ever had. Unlike other EECS professors at york Burton Ma wont rush to finish his conversation with you and will actually take some time to help you. Perhaps the rest of the EECS department can learn something from him."
+        },
+        "externalUrl": "http://test.co/info/{{$guid}}"
+    },
+    {
+        "type": "faq",
+        "faq": {
+            "question": "Should I take Burton Ma's EECS2030 class if I care about my grades and GPA? Should I attend EECS2030 lectures with Burton Ma? Will I need to study a lot for EECS2030 with Burton Ma? ",
+            "answer": "One of the few profs at York that actually know what they're talking about. Lectures are somewhat dry and feel rushed. Assignments were mostly only marked by the end of the course, but tests comprise most of the grade and there is plenty of review material."
+        },
+        "externalUrl": "http://test.co/info/{{$guid}}"
+    },
+    {
+        "type": "faq",
+        "faq": {
+            "question": "Is Burton Ma a nice professor for LEEECS1011? ",
+            "answer": "Prof. Ma was a good professor for my first year at York. Unfortunately, I am terrible with computers but he was definitely helpful and considerate for the students. He is there if you need help and clarification."
+        },
+        "externalUrl": "http://test.co/info/{{$guid}}"
+    },
+    {
+        "type": "faq",
+        "faq": {
+            "question": "Should I attend 1011 lectures with Burton Ma? ",
+            "answer": "i absolutelyyyyyyyyyy recomend you take your eecs classes with him."
+        },
+        "externalUrl": "http://test.co/info/{{$guid}}"
+    },
+    {
+        "type": "faq",
+        "faq": {
+            "question": "Is Burton Ma the best professor I can take for EECS1011 or is there someone better and what are most people's opinions about their class? Is attending EECS1011 lecture from Burton Ma worth it to pass the class? ",
+            "answer": "He is the best professor for ANY course literally. His teaching skills are excellent and he really wants his students to do good. His lectures are awesome. Such a nice professor and really helpful. Would take all my EECS classes with him!"
+        },
+        "externalUrl": "http://test.co/info/{{$guid}}"
+    },
+    {
+        "type": "faq",
+        "faq": {
+            "question": "Is Burton Ma a nice professor for CSE1030? Should I take Burton Ma's CSE1030 class if I care about my grades and GPA? ",
+            "answer": "Good Professor. Explains really well. Is ready help you anytime, he also attends all the labs. So, you can ask for help even in the labs. Tests are a bit challenging, but if you know the concepts, you should be fine."
+        },
+        "externalUrl": "http://test.co/info/{{$guid}}"
+    },
+    {
+        "type": "faq",
+        "faq": {
+            "question": "Is Burton Ma a nice professor for CSE1030? ",
+            "answer": "The best prof at cse! helps you out whenever you go to his office. just practice as much as you can and youll be fine."
+        },
+        "externalUrl": "http://test.co/info/{{$guid}}"
+    },
+    {
+        "type": "faq",
+        "faq": {
+            "question": "Is Burton Ma a nice professor for CSE1030? ",
+            "answer": "He is great."
+        },
+        "externalUrl": "http://test.co/info/{{$guid}}"
+    },
+    {
+        "type": "faq",
+        "faq": {
+            "question": "Should I attend CSE1030 lectures with Burton Ma? ",
+            "answer": "Burton is one of the better crowd of profs at York. I was screwed over by Lassonde faculty, and fell extremely behind in this course. Approachable, relaxed, always willing to help in any way. Offered extra resources to bring me up to par. Unfortunately I'm repeating the class, like many. Hoping to take it with Burton again."
+        },
+        "externalUrl": "http://test.co/info/{{$guid}}"
+    },
+    {
+        "type": "faq",
+        "faq": {
+            "question": "Is Burton Ma a nice professor for CSE1030? ",
+            "answer": "Simply one of the best professors at York."
+        },
+        "externalUrl": "http://test.co/info/{{$guid}}"
+    }
+]

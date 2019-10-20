@@ -1,0 +1,154 @@
+[
+    {
+        "type": "faq",
+        "faq": {
+            "question": "Will I enjoy taking Hamzeh Roumani's class for EECS1022 and what kind of prof are they? Is Hamzeh Roumani giving good grades for EECS1022? Should I attend EECS1022 lectures with Hamzeh Roumani? Should I take the EECS1022 with Hamzeh Roumani to understand the topics and material? Will I need to study a lot for EECS1022 with Hamzeh Roumani? ",
+            "answer": "Great prof! Answers questions in class well whenever we don't understand anything. I like he also talks about how the topics taught will relate to us in the corporate world. He is good at making examples for us to have deeper understanding. Although his tests are very technical, study hard and you'll be fine."
+        },
+        "externalUrl": "http://test.co/info/{{$guid}}"
+    },
+    {
+        "type": "faq",
+        "faq": {
+            "question": "Is Hamzeh Roumani a nice professor for EECS2021? How is Hamzeh Roumani's grading if I want to get a high grade in EECS2021? Are his test very tricky and can I expect fair labs? Is attending EECS2021 lecture from Hamzeh Roumani worth it to pass the class? Should I take the EECS2021 with Hamzeh Roumani to understand the topics and material? ",
+            "answer": "He teaches really well. His lectures are amazing and very inspirational. His lab tests are fair but in theory test he will try his level best to fail you. Most of the questions has nothing to do with the topics he covered in the lecture. DO NOT take class with him unless you're really genius or you will fail or barely pass."
+        },
+        "externalUrl": "http://test.co/info/{{$guid}}"
+    },
+    {
+        "type": "faq",
+        "faq": {
+            "question": "Is Hamzeh Roumani a nice professor for EECS1022? Should I take Hamzeh Roumani's EECS1022 class if I care about my grades and GPA? Should I attend EECS1022 lectures with Hamzeh Roumani? Does Hamzeh Roumani explain EECS1022 well? ",
+            "answer": "I haven't talked to him personally but he seems like a nice person. His classes and labs are fun. He teaches the topics clearly and it is possible to understand most of them just by going over what he posts online. His second lab test was nothing like the first one and he gave barely enough time."
+        },
+        "externalUrl": "http://test.co/info/{{$guid}}"
+    },
+    {
+        "type": "faq",
+        "faq": {
+            "question": "Will I enjoy taking Hamzeh Roumani's class for EECS2021 and what kind of prof are they? How is Hamzeh Roumani's grading if I want to get a high grade in EECS2021? Are his test very tricky and can I expect fair labs? Does Hamzeh Roumani explain EECS2021 well? ",
+            "answer": "He is a really great Prof. (or say the best prof at york) if you want to learn and have a deep understanding of this course. Each lab is 4% in which there is programming test of 40 min usually the questions are kind of interesting and it's very easy to screw up your grades. Mips is the part where you can accumulate all your grades as Verilog is the"
+        },
+        "externalUrl": "http://test.co/info/{{$guid}}"
+    },
+    {
+        "type": "faq",
+        "faq": {
+            "question": "Is Hamzeh Roumani a nice professor for EECS1022? Is Hamzeh Roumani giving good grades for EECS1022? Should I attend EECS1022 lectures with Hamzeh Roumani? ",
+            "answer": "He's the best prof I've had so far at York. If you can, get him! I felt sick a couple of times and he had no issue with moving my test to another day. Best lecturer so far and very motivational. He is very easy to talk to and he genuinely cares about students."
+        },
+        "externalUrl": "http://test.co/info/{{$guid}}"
+    },
+    {
+        "type": "faq",
+        "faq": {
+            "question": "Is Hamzeh Roumani a nice professor for EECS1022? ",
+            "answer": "He is tough but clear, very knowledge, work hard & definitely will succeed very helpful and tough, best prof for computer science at york so far."
+        },
+        "externalUrl": "http://test.co/info/{{$guid}}"
+    },
+    {
+        "type": "faq",
+        "faq": {
+            "question": "",
+            "answer": "Never take this course with him."
+        },
+        "externalUrl": "http://test.co/info/{{$guid}}"
+    },
+    {
+        "type": "faq",
+        "faq": {
+            "question": "Will I enjoy taking Hamzeh Roumani's class for CSE4413 and what kind of prof are they? Should I attend CSE4413 lectures with Hamzeh Roumani? Does Hamzeh Roumani explain CSE4413 well? Is Hamzeh Roumani giving good grades for CSE4413? ",
+            "answer": "Good teacher.  He's strict, but his reasoning is sound.  Your performance in his class reflects how prepared you currently are for the workforce.   i.e you can have a great GPA, but if you've only do the required labs, you'll probably get a D.  Spend some time exploring the topic in depth (on your own) if you want to get any better than that."
+        },
+        "externalUrl": "http://test.co/info/{{$guid}}"
+    },
+    {
+        "type": "faq",
+        "faq": {
+            "question": "Is Hamzeh Roumani a nice professor for EECS4413? ",
+            "answer": "By far the best professor I've ever had. He knows how to teach SO well, and makes you fall in love with the material."
+        },
+        "externalUrl": "http://test.co/info/{{$guid}}"
+    },
+    {
+        "type": "faq",
+        "faq": {
+            "question": "Is Hamzeh Roumani a nice professor for EECS4413? ",
+            "answer": "Best professor, smart, clear, always listens then talks"
+        },
+        "externalUrl": "http://test.co/info/{{$guid}}"
+    },
+    {
+        "type": "faq",
+        "faq": {
+            "question": "Is Hamzeh Roumani a nice professor for EECS1020? Is Hamzeh Roumani giving good grades for EECS1020? Should I attend EECS1020 lectures with Hamzeh Roumani? ",
+            "answer": "Amazing lectures. One of the best at york. Tough Grader. Should work hard and that helps a lot outside."
+        },
+        "externalUrl": "http://test.co/info/{{$guid}}"
+    },
+    {
+        "type": "faq",
+        "faq": {
+            "question": "Will I enjoy taking Hamzeh Roumani's class for EECS1022 and what kind of prof are they? Should I take Hamzeh Roumani's EECS1022 class if I care about my grades and GPA? Is attending EECS1022 lecture from Hamzeh Roumani worth it to pass the class? ",
+            "answer": "Professor Roumani is a great prof. He  tries to keep his students engaged and does a good job of explaining the material. The course itself is new so it was a bit disjointed between the lectures and labs which probably made the in class tests harder than they needed to be. The lab component made up for it by being really easy."
+        },
+        "externalUrl": "http://test.co/info/{{$guid}}"
+    },
+    {
+        "type": "faq",
+        "faq": {
+            "question": "",
+            "answer": "Amazing comp sci prof, take it if u get the chance!"
+        },
+        "externalUrl": "http://test.co/info/{{$guid}}"
+    },
+    {
+        "type": "faq",
+        "faq": {
+            "question": "Is Hamzeh Roumani giving good grades for EECS1020? ",
+            "answer": "Tests are not hard if u understand the subject. Can use google and other material during the tests. Inspirational."
+        },
+        "externalUrl": "http://test.co/info/{{$guid}}"
+    },
+    {
+        "type": "faq",
+        "faq": {
+            "question": "Is Hamzeh Roumani giving good grades for CSE2021? Is attending CSE2021 lecture from Hamzeh Roumani worth it to pass the class? Does Hamzeh Roumani explain CSE2021 well? ",
+            "answer": "I skipped most CS courses because the profs usually simply regurgitate what you can read in a textbook. Roumani  was  one of the only profs who used the class for interaction and put some effort into teaching topics in an interesting and concise manner. You probably could pass without coming to class, but it was still definitely worth coming to."
+        },
+        "externalUrl": "http://test.co/info/{{$guid}}"
+    },
+    {
+        "type": "faq",
+        "faq": {
+            "question": "Will I enjoy taking Hamzeh Roumani's class for EECS1020 and what kind of prof are they? ",
+            "answer": "Best professor I have ever had. He is  concise, will give great examples and offers interesting tidbits to keep you interested in the course and program. He effectively communicates with his students and understands how to convey to knowledge (wisdom) to them. He will provide thought provoking examples and will clearly explain the process behind it"
+        },
+        "externalUrl": "http://test.co/info/{{$guid}}"
+    },
+    {
+        "type": "faq",
+        "faq": {
+            "question": "Is Hamzeh Roumani a nice professor for EECS1020? ",
+            "answer": "He is THE BEST. Would love to take courses taught by him as many as possible!"
+        },
+        "externalUrl": "http://test.co/info/{{$guid}}"
+    },
+    {
+        "type": "faq",
+        "faq": {
+            "question": "Should I attend CSE1020 lectures with Hamzeh Roumani? Is Hamzeh Roumani giving good grades for CSE1020? ",
+            "answer": "The rating for this teacher makes it look like that \"the real students\", the ones who actually had classes with him, have no voice!! REAL students clearly talk about the  unsatisfaction with class, book lab and on. I would never ever take a class with him. A weak Java course named \"computer science\". Never again!"
+        },
+        "externalUrl": "http://test.co/info/{{$guid}}"
+    },
+    {
+        "type": "faq",
+        "faq": {
+            "question": "Will I enjoy taking Hamzeh Roumani's class for CSE1020 and what kind of prof are they? Should I take Hamzeh Roumani's CSE1020 class if I care about my grades and GPA? Should I attend CSE1020 lectures with Hamzeh Roumani? ",
+            "answer": "Great professor. Knows the subject very well. Not very approachable in person, but that can be ignored. Tests for this particular class were extremely easy. Attend every class if you are new to Comp. Science. If you are just coming back for a good grade like me, well you are at the right place."
+        },
+        "externalUrl": "http://test.co/info/{{$guid}}"
+    }
+]
