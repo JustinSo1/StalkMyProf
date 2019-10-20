@@ -1,11 +1,12 @@
 import React from "react";
+import votes from "./votes.json";
 
 class Chat extends React.Component {
   constructor(props) {
     super(props);
-    this.state = { isDisabled: false, answer: null };
+    this.state = { isDisabled: false, answer: [], upvotes: [] };
     this.handleSubmit = this.handleSubmit.bind(this);
-    this.displayMessage = this.displayMessage.bind(this);
+    this.getRequest = this.getRequest.bind(this);
   }
 
   async handleSubmit(e) {
@@ -34,13 +35,13 @@ class Chat extends React.Component {
         Accept: "*/*",
         "User-Agent": "PostmanRuntime/7.18.0",
         token:
-          "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJvcmdJZCI6IjliZDEyMjY4LTJkMGMtNDU4My05NjIzLWQ0YWUzMjQ3MzcwZiIsImV4cCI6MTU3MTU3MDUzMCwiaWF0IjoxNTcxNTY2OTMwfQ.jovA61B8IWPt-53b-5pAvETpgQ9tBLOUKQbC1tqe1Rg",
+          "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJvcmdJZCI6IjliZDEyMjY4LTJkMGMtNDU4My05NjIzLWQ0YWUzMjQ3MzcwZiIsImV4cCI6MTU3MTU4NTA1MywiaWF0IjoxNTcxNTgxNDUzfQ.i-O0RBvmnD0xK2CJ_6KzxqpJbqRF9RqOI_R4XIJD7pY",
         organizationid: "9bd12268-2d0c-4583-9623-d4ae3247370f",
         "Content-Type": "application/json"
       },
       body: {
         query: query,
-        pageSize: 1,
+        pageSize: 3,
         pageNumber: 1,
         sortOrder: "string",
         sortBy: "string",
@@ -49,20 +50,64 @@ class Chat extends React.Component {
       },
       json: true
     };
-
+    let i = this;
     request(options, function(error, response, body) {
       if (error) console.log(error);
-      this.setState({ answer: body.results[0].faq.answer });
-      this.displayMessage();
+      let answer = [];
+      for (let res of body.results) {
+        answer.push(res.faq.answer);
+      }
+      if (answer.length === 0)
+        answer.push(
+          "No answers for this question. Please try another question."
+        );
+      let upvotes = [];
+      try {
+        const answer_votes = JSON.parse(votes);
+        for (let j = 0; j < answer.length; j++) {
+          if (answer[j] in answer_votes) {
+            upvotes[j] = answer_votes[answer[j]];
+          } else {
+            upvotes[j] = 0;
+          }
+        }
+      } catch {
+        for (let j = 0; j < answer.length; j++) {
+          upvotes[j] = 0;
+        }
+      }
+      i.setState({ answer, upvotes, isDisabled: false });
     });
   }
 
-  displayMessage() {}
+  vote(voteType, answer) {
+    // voteType === "upvote" ? this.upvotes++ : this.upvotes--;
+  }
+
+  formatMultipleAnswers(answer) {
+    let res = [];
+    for (let a of answer) {
+      res.push(
+        <div className="ui visible message huge">
+          <p>{a}</p>
+          <i
+            className="small angle up icon"
+            onClick={() => this.vote("upvote", a)}
+          ></i>
+          <i
+            className="small angle down icon"
+            onClick={() => this.vote("downvote", a)}
+          ></i>
+        </div>
+      );
+    }
+    return res;
+  }
 
   render() {
     const { answer } = this.state;
     let res;
-    if (answer === null) {
+    if (answer.length === 0) {
       res = (
         <div className="container-chat">
           <div className="container-inner-chat">
@@ -80,6 +125,7 @@ class Chat extends React.Component {
         </div>
       );
     } else {
+      const answerJSX = this.formatMultipleAnswers(answer);
       res = (
         <div className="container-chat">
           <div className="container-inner-chat">
@@ -93,6 +139,7 @@ class Chat extends React.Component {
                 <i className="search icon"></i>
               </div>
             </form>
+            {answerJSX}
           </div>
         </div>
       );

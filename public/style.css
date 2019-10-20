@@ -2,10 +2,27 @@ html,
 body,
 #root,
 .container {
+  position: relative;
   width: 100%;
   height: 100%;
   margin: 0;
   padding: 0;
+}
+.container {
+  background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+  background-size: 400% 400%;
+  animation: gradientBG 15s ease infinite;
+}
+@keyframes gradientBG {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
 }
 
 .container-form,
@@ -36,6 +53,7 @@ form {
   position: relative;
 }
 .logo {
+  z-index: 1;
   position: fixed;
   display: block;
   left: 50%;
@@ -66,7 +84,7 @@ i.icon {
   height: 1px;
   position: absolute;
   display: block;
-  bottom: -100%;
+  bottom: 0;
 }
 .ui.icon.input > i.icon:not(.link) {
   pointer-events: none;
@@ -75,4 +93,16 @@ i.icon {
 
 .container-inner-chat {
   width: 900px;
+}
+.ui.visible.message {
+  width: 900px;
+}
+
+.angle.up,
+.angle.down {
+  color: black;
+  cursor: pointer;
+}
+i.small.icon {
+  font-size: 1.4em;
 }
