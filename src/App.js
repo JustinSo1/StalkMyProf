@@ -1,48 +1,57 @@
-import React from 'react';
-import useForm from "./useForm";
-import './App.css'; 
+import React from "react";
+import Form from "./Form";
+import Chat from "./Chat";
 
-
-const Form = () => {
-  const { values, handleChange, handleSubmit } = useForm(login);
-
-  function login() {
-    console.log(values);
+class App extends React.Component {
+  constructor(props) {
+    super(props);
+    this.onClick = this.onClick.bind(this);
+    this.ref = React.createRef();
   }
 
-  return (
-    <div className="section">
-      
-      <div className="container">
-      <h1>Stalk My Professor</h1>
-        <div className="column">
-          <div className="box">
-            <form onSubmit={handleSubmit}>
-              <div className="field">
-                <label className="label">University</label>
-                <div className="control">
-                  <input className="input" type="text" name="uni" onChange={handleChange} value={values.email} required />
-                </div>
-              </div>
-              <div className="field">
-                <label className="label">Department</label>
-                <div className="control">
-                  <input className="input" type="text" name="department" onChange={handleChange} value={values.email} required />
-                </div>
-              </div>
-              <div className="field">
-                <label className="label">Professor</label>
-                <div className="control">
-                  <input className="input" type="text" name="prof" onChange={handleChange} value={values.password} required />
-                </div>
-              </div>
-              <button type="submit" className="submitButton">Submit</button>
-            </form>
-          </div>
-        </div>
-      </div>
-    </div>
-  );
-};
+  state = {
+    containerSize: "100%",
+    showChat: false
+  };
 
-export default Form;
+  onClick(e) {
+    e.preventDefault();
+    this.setState({ containerSize: "200%", showChat: true });
+    this.ref.current.scrollIntoView({
+      behavior: "smooth"
+    });
+  }
+
+  render() {
+    const { containerSize, showChat } = this.state;
+    let res;
+    if (!showChat) {
+      res = (
+        <div className="container" style={{ height: containerSize }}>
+          <div className="logo">
+            <div className="ui header">Stalk</div>
+            <i className="low vision icon"></i>
+            <div className="ui header">Your Prof</div>
+          </div>
+          <Form onClick={this.onClick}></Form>
+          <div ref={this.ref} className="bottom"></div>
+        </div>
+      );
+    } else {
+      res = (
+        <div className="container" style={{ height: containerSize }}>
+          <div className="logo">
+            <div className="ui header">Stalk</div>
+            <i className="low vision icon"></i>
+            <div className="ui header">Your Prof</div>
+          </div>
+          <Form onClick={this.onClick}></Form>
+          <Chat></Chat>
+          <div ref={this.ref} className="bottom"></div>
+        </div>
+      );
+    }
+    return res;
+  }
+}
+export default App;

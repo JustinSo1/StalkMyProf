@@ -1,0 +1,78 @@
+html,
+body,
+#root,
+.container {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.container-form,
+.container-inner-chat {
+  width: 500px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+.button {
+}
+.search-container {
+  position: relative;
+}
+.ui.header:first-child {
+  margin: 5px;
+  margin-top: 35px;
+}
+.ui.input {
+  width: -webkit-fill-available;
+}
+.ui.huge.button {
+  margin-top: 35px;
+  width: -webkit-fill-available;
+}
+form {
+  position: relative;
+}
+.logo {
+  position: fixed;
+  display: block;
+  left: 50%;
+  margin-top: 100px;
+  transform: translate(-50%);
+}
+i.icon {
+  font-size: 4em;
+  display: inline;
+}
+.logo .ui.header:first-child {
+  font-size: 4em;
+  display: inline;
+}
+.logo .ui.header:last-child {
+  font-size: 4em;
+  display: inline;
+}
+.container-chat {
+  height: 50%;
+  top: 50%;
+  position: relative;
+  display: block;
+}
+
+.bottom {
+  width: -webkit-fill-available;
+  height: 1px;
+  position: absolute;
+  display: block;
+  bottom: -100%;
+}
+.ui.icon.input > i.icon:not(.link) {
+  pointer-events: none;
+  font-size: 1.7em;
+}
+
+.container-inner-chat {
+  width: 900px;
+}
